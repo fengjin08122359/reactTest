@@ -1,0 +1,6 @@
+
+#jpush配置 金盘
+jpush.appkey=f7431914a57c577ecc7a860a
+jpush.secret=e48ab8d92dbd7f0253a1ad44
+jpush.production=true
+
